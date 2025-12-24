@@ -14,10 +14,10 @@ Me especializo en crear experiencias web interactivas y funcionales. Mi enfoque 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📫 Contacto
-<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/roberto-vasquez-404729241/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:tu-email@ejemplo.com">
+<a href="mailto:robertojesusvasquez@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
