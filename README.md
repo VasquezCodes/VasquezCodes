@@ -1,6 +1,6 @@
 # Hola, soy Roberto Vasquez 👋
 
-Soy un **Desarrollador Full Stack** de 23 años viviendo en Buenos Aires, Argentina 🇦🇷. Actualmente estoy cursando mis estudios en la **UADE**.
+Soy un **Desarrollador Full Stack** de 24 años viviendo en Buenos Aires, Argentina 🇦🇷. Actualmente estoy cursando mis estudios en la **UADE**.
 
 ### 🚀 Sobre mí
 Me especializo en crear experiencias web interactivas y funcionales. Mi enfoque actual está en el ecosistema React con un fuerte énfasis en animaciones y rendimiento.
